@@ -28,7 +28,7 @@ If you want to play against a friend, press the ***Two Player*** button
 
 ![the start menu](https://github.com/Gitit-Shapira/The-Coins-Game/blob/main/images/the%20winner.jpg)
 
-At any time, you can press the ***SPACE key*** to return Main Menu.
+At any time, you can press the ***SPACE key*** to return to Main Menu.
 There are ***Instructions*** buttom for demo
 ![the start menu](https://github.com/Gitit-Shapira/The-Coins-Game/blob/main/images/instructions.jpg)
 
