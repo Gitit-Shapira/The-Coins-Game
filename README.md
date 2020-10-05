@@ -32,7 +32,7 @@ At any time, you can press the ***SPACE key*** to return Main Menu.
 There are ***Instructions*** buttom for demo
 ![the start menu](https://github.com/Gitit-Shapira/The-Coins-Game/blob/main/images/instructions.jpg)
 
-and also ***Credits*** to seen
+and also ***Credits*** to be seen
 ![the start menu](https://github.com/Gitit-Shapira/The-Coins-Game/blob/main/images/credits.jpg)
 
 Where the clouds are running on the screen.
